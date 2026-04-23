@@ -5,6 +5,6 @@ This project consists of coding a library that contains a simplified version of 
 # Instructions
 
 To compile, go to the library path and run:
-$make
+# $make
 To use the library functions in your code, simply include its header:
-#include "ft_printf.h"
+# #include "ft_printf.h"
